@@ -1,16 +1,27 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mfrais/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/MF_Rais">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mfrais&style=for-the-badge&color=yellow&label=View+Counts" alt=""/>
+</div>
 
-<!--
-**mfrais/mfrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hello stranger, Welcome to my repo!! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### :smiley: About Me:
+Holla everyone! I'm a hobbyist and currently learning to code, write and talk
+- :earth_asia: I'm based on Jakarta, Indonesia
+- :computer: Currently working as an IT Support at small IT Services company
+- :mountain: I like to travel, photography, making coffee, cooking and reading books
+- :dollar: I also open small aromatherapy business and do some side projects related to IT
