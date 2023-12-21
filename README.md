@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mfrais/" target="_blank" >
+  <a href="https://www.linkedin.com/in/mfrais/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/mf_rais/" target="_blank" >
+  <a href="https://www.instagram.com/mf_rais/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/MF_Rais" target="_blank" >
+  <a href="https://twitter.com/MF_Rais" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
