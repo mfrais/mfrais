@@ -3,10 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mfrais/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/mf_rais/">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Twitter Badge"/>
   </a>
   <a href="https://twitter.com/MF_Rais">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="counter" align="center">
@@ -19,9 +22,9 @@
 </h1>
 
 ---
-### :smiley: About Me:
+## :smiley: About Me:
 Holla everyone! I'm a hobbyist and currently learning to code, write and talk
-- :earth_asia: I'm based on Jakarta, Indonesia
+- :earth_asia: Based on Jakarta, Indonesia
 - :computer: Currently working as an IT Support at small IT Services company
-- :mountain: I like to travel, photography, making coffee, cooking and reading books
-- :dollar: I also open small aromatherapy business and do some side projects related to IT
+- :mountain: Like to travel, photography, making coffee, cooking and reading books
+- :dollar: Also open small aromatherapy business and do some side projects related to IT
