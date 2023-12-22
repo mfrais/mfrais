@@ -19,7 +19,7 @@
 
 <h1 align="center">
   Hello stranger, Welcome to my repo!! 
-  <img src="https://raw.githubusercontent.com/mfrais/mfrais/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 ---
